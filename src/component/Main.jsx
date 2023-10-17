@@ -23,7 +23,7 @@ function Main() {
 
   return (
     <div className="App">
-      {/* {currentPhase === 1 && (
+      {currentPhase === 1 && (
         <FlyingText1 onAnimationEnd={handleNextPhase} />
       )}
       {currentPhase === 2 && (
@@ -40,7 +40,7 @@ function Main() {
       )}
       {currentPhase === 6 && (
         <GameScrissor onNextPhase={handleNextPhase} />
-      )} */}
+      )}
       {currentPhase ===1 && (
         <FlyingText4></FlyingText4>
       )}

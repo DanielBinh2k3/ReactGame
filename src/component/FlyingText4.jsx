@@ -24,7 +24,7 @@ const FlyingText4 = () => {
         <li><span>Wait for seconds to show password</span></li>
       </ul>)}
       {showText &&
-      <div class="static-txt">SXUgTGluaCBDYWM=2003</div>}
+      <div class="static-txt">sxugtgluacbdywm=2003</div>}
     </div>
   );
 }
