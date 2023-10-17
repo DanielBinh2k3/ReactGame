@@ -41,7 +41,7 @@ function Main() {
       {currentPhase === 6 && (
         <GameScrissor onNextPhase={handleNextPhase} />
       )}
-      {currentPhase ===1 && (
+      {currentPhase === 7 && (
         <FlyingText4></FlyingText4>
       )}
     </div>
