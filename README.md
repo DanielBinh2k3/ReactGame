@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
       <h1> <img src="https://raw.githubusercontent.com/kasim393/assets/main/RPS%20game/rps_banner.jpg"><br/>RPS Game</h1>
 </div>
@@ -38,3 +39,6 @@ $ npm run dev
 
     Epic Mobile Game UI: https://dribbble.com/shots/11180890-Epic-Mobile-Game-UI-FREE
     
+=======
+# ReactGame
+>>>>>>> d5a7dc91104dcc37e246e770d3c7c3d67d8e80fe
