@@ -24,7 +24,6 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.7",
     "node-sass": "^9.0.0",
-    "patch-package": "^8.0.0",
     "sass": "^1.69.3",
     "sass-loader": "^13.3.2",
     "vite": "^2.8.0"
